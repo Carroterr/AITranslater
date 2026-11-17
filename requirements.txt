@@ -1,0 +1,9 @@
+PyAudioWPatch==0.2.12.8
+webrtcvad-wheels>=2.0.14,<3
+numpy>=1.26,<3
+av>=17.1,<18
+httpx>=0.28,<0.29
+ctranslate2>=4.6,<5
+sentencepiece>=0.2,<0.3
+opencc-python-reimplemented==0.1.7
+onnxruntime-directml>=1.20,<2; platform_system == "Windows"
